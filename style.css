@@ -59,7 +59,7 @@ button:hover {
     margin-right: 20px;  /* Jarak kanan */
 }
 
-#displayDNA, #displayNonsenseDNA, #displaymRNA {
+#displaymRNA, #displayAminoAcids {
     border: 1px solid #ddd;
     padding: 20px;
     margin-top: 10px;
